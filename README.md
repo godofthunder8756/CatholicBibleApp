@@ -43,7 +43,7 @@ The text of the Douay-Rheims Bible is in the **public domain**, and this app is 
 
 ---
 
-> *“Ignorance of Scripture is ignorance of Christ.”*  
+> *"Ignorance of Scripture is ignorance of Christ."*  
 > — *St. Jerome*
 
 ---
@@ -51,4 +51,20 @@ The text of the Douay-Rheims Bible is in the **public domain**, and this app is 
 ## 🙌 Contributions Welcome
 
 Want to help build a better spiritual tool? Feel free to open a PR or fork the repo!
+
+## 🚀 Automated Releases
+
+This project uses GitHub Actions to automatically build and release the APK when a new version tag is pushed. To create a new release:
+
+1. Make your changes and ensure the app builds correctly
+2. Update the version in `pubspec.yaml`
+3. Commit your changes
+4. Create and push a new tag:
+   ```
+   git tag -a v1.0.0 -m "Release version 1.0.0"
+   git push origin v1.0.0
+   ```
+5. GitHub Actions will automatically build the APK and create a release with the APK attached
+
+The workflow configuration can be found in `.github/workflows/release.yml`.
 
