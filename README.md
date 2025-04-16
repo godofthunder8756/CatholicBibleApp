@@ -22,7 +22,8 @@ The text is sourced from a clean, public domain version of the Douay-Rheims Bibl
 - 🕊️ **No ads, no data tracking, no distractions**
 - 📖 **Full offline access** – no internet required once installed
 - 🔍 **Browse by Book > Chapter > Verse**
-- 💡 Simple, clean dark mode UI
+- 💡 Simple, clean dark mode UI, and font size adjustment
+- 🔖 Bookmarking and sharing verses
 - ⚖️ Accurate Catholic canon (Douay-Rheims)
 
 ## 🚀 Built With
@@ -31,13 +32,7 @@ The text is sourced from a clean, public domain version of the Douay-Rheims Bibl
 - JSON-based local storage of Bible data
 - Custom UI inspired by the principles of simplicity and reverence
 
-## 📱 App Icon
-
-The icon features a Bible with the letters **CBA** and a golden cross — representing our focus on the Word of God.
-
 ## 🛐 Future Ideas
-
-- Bookmarking and highlighting
 - Daily verse notifications
 - Latin/English parallel view (Douay-Rheims + Vulgate)
 - Built-in Rosary prayers
