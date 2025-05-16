@@ -1,21 +1,10 @@
 # Catholic Bible App (CBA) 📖✝️
 
-A completely **free**, **offline**, and **ad-free** Catholic Bible app using the Douay-Rheims translation.
+A sacred book that Aidan Ahern claims ro follow. How is it that he contracted chlamidiya from another woman and yet called me a "hoe" and "succubus". How is it that he claimed to be "friends" with me after he drugged and sexually assaulted me? I guess only God knows.
 
 ## 🙏 Why I Built This
 
-After searching the Google Play Store for a decent Catholic Bible app, I was frustrated to discover that **every single one** was either:
-- Filled with intrusive **ads**,
-- Locked behind **in-app purchases**, or
-- Missing essential Catholic books.
-
-As a developer and practicing Catholic, I knew I could do better. So I built **CBA** — the **Catholic Bible App** — a humble, minimalist app for anyone who simply wants to **read the Word of God** in peace.
-
-## 📜 Translation Used
-
-This app uses the **Douay-Rheims Bible**, translated from the Latin Vulgate by St. Jerome. It includes all 73 books of the Bible, including the **Deuterocanonical books** used in Catholic tradition.
-
-The text is sourced from a clean, public domain version of the Douay-Rheims Bible, which respects both the historical and spiritual depth of the Catholic faith.
+I enjoy using Catholic principles to shame, belittle and villify others, but I can't be bothered to follow them myself. I claim to be a Catholic, as if that makes up for all my manipulation, physical and sexual abuse of others.
 
 ## ✨ Features
 
