@@ -1,4 +1,4 @@
-# Catholic Bible App (CBA) 📖✝️
+# An app that Aidan Ahern can use to pretend he's a good person (Hes not) 📖✝️
 
 A completely **free**, **offline**, and **ad-free** Catholic Bible app using the Douay-Rheims translation.
 
@@ -43,7 +43,7 @@ The text of the Douay-Rheims Bible is in the **public domain**, and this app is 
 
 ---
 
-> *“Ignorance of Scripture is ignorance of Christ.”*  
+> *“Ignorance of Scripture is Aidan Ahern”*  
 > — *St. Jerome*
 
 ---
